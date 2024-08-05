@@ -5,12 +5,12 @@ I am a 21 year old Student 🇩🇪
  - Coding
    - Especially
       - C
+      - C++
       - Typescript and its types
       - Java
    - Experimenting with
      - Kotlin
      - Rust
-     - C++
  - Software Design
  - Android development
  - Shaders
